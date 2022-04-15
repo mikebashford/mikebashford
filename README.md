@@ -10,3 +10,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Playing Runescape inspired me to go into programming.
 
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikebashford&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
