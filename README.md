@@ -12,4 +12,5 @@
 
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikebashford&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikebashford)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018d90d9-f665-4c7b-bbd2-61d074d5e2ee)](https://github.com/anuraghazra/github-readme-stats)
+
