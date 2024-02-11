@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Swapette Showdown https://swapetteshowdown.com/.
-- 🌱 I’m currently learning React, Angular, Solidity.
+- 🔭 I’m currently working on getting an IBM Full-Stack JavaScript Developer certificate.
+- 🌱 I’m currently learning React, Angular, Next.js.
 - 👯 I’m looking to collaborate on Websites.
 - 🤔 I’m looking for help with finding web3 tutorials.
 - 💬 Ask me about video games.
