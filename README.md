@@ -8,7 +8,7 @@
 - 💬 Ask me about video games.
 - 📫 How to reach me: https://www.linkedin.com/in/mikebashford/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Playing Runescape inspired me to go into programming.
+- ⚡ Fun fact: Playing Runescape inspired me to get into programming.
 
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikebashford&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
