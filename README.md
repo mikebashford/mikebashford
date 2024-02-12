@@ -1,14 +1,8 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on getting an IBM Full-Stack JavaScript Developer certificate.
-- 🌱 I’m currently learning React, Angular, Next.js.
-- 👯 I’m looking to collaborate on Websites.
-- 🤔 I’m looking for help with finding web3 tutorials.
-- 💬 Ask me about video games.
-- 📫 How to reach me: https://www.linkedin.com/in/mikebashford/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Playing Runescape inspired me to get into programming.
+Full-Stack JavaScript Developer with IBM certificate, proficient in React, Angular, and Next.js. <br/>
+Seeking collaboration on dynamic, interactive websites for e-commerce or portfolio projects. <br/>
+Runescape sparked my passion for building digital experiences. <br/>
+Let's connect!  https://www.linkedin.com/in/mikebashford/ (He/Him)<br/>
+<br/>
 
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikebashford&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
