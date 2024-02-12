@@ -1,4 +1,4 @@
-Full-Stack JavaScript Developer with IBM certificate, proficient in React, Angular, and Next.js. <br/>
+Full-Stack JavaScript Developer pursuing an IBM certificate, proficient in React, studying Angular and Next.js. <br/>
 Seeking collaboration on dynamic, interactive websites for e-commerce or portfolio projects. <br/>
 Runescape sparked my passion for building digital experiences. <br/>
 Let's connect!  https://www.linkedin.com/in/mikebashford/ (He/Him)<br/>
