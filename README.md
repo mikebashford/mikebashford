@@ -16,7 +16,7 @@ Skills:
 Front-End: React, JavaScript, HTML5, CSS3, Bootstrap
 Back-End: Node.js, Express, MongoDB, SQL, MySQL
 Version Control & Deployment: GIT, GitHub, Heroku
-UI/UX Design: UI/UX principles, UX design, usability testing & debugging
+UI/UX Design: UI/UX principles, UX design, usability testing & debugging<br>
 Looking for:
 
 Collaboration opportunities where I can learn, grow, and contribute to innovative projects.
