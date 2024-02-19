@@ -11,12 +11,14 @@ Highlights:
 **Slayed Bugs & Boosted Usability:** Identified critical bugs in a global CMS rollout, leading to a smoother implementation.<br>
 **25% User Engagement Jump:** Designed UI/UX layouts for a new product feature, increasing user engagement by a quarter.<br>
 **Consistent High Performance:** Achieved 100% on-time delivery and a 4.9/5 rating for over 4,000 orders as a Personal Shopper.<br>
+
 Skills:
 
 Front-End: React, JavaScript, HTML5, CSS3, Bootstrap
 Back-End: Node.js, Express, MongoDB, SQL, MySQL
 Version Control & Deployment: GIT, GitHub, Heroku
-UI/UX Design: UI/UX principles, UX design, usability testing & debugging<br>
+UI/UX Design: UI/UX principles, UX design, usability testing & debugging<be>
+
 Looking for:
 
 Collaboration opportunities where I can learn, grow, and contribute to innovative projects.
