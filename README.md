@@ -1,5 +1,5 @@
 The Full Stack Dev with an Impact<br>
-From Legal Eagles to Playful Pixels: Building Tech that Solves Problems and Sparkles Delight
+From Legal Eagles to Playful Pixels: Building Tech that Solves Problems
 
 About Me:
 
@@ -10,7 +10,6 @@ Highlights:
 **Automated Legal Document Generation:** Saved clients 1000s of hours by building JavaScript functions in Microsoft Office Suite.<br>
 **Slayed Bugs & Boosted Usability:** Identified critical bugs in a global CMS rollout, leading to a smoother implementation.<br>
 **25% User Engagement Jump:** Designed UI/UX layouts for a new product feature, increasing user engagement by a quarter.<br>
-**Consistent High Performance:** Achieved 100% on-time delivery and a 4.9/5 rating for over 4,000 orders as a Personal Shopper.<br>
 
 Skills:
 
