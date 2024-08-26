@@ -1,29 +1,29 @@
-The Full Stack Dev with an Impact<br>
-From Legal Eagles to Playful Pixels: Building Tech that Solves Problems
 
-About Me:
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGLyUyQwMJJNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724599428354?e=1730332800&v=beta&t=-QGabLjPkbMdmVV2RoqsymWOqhBNFcTmJ88b4LWA6MA"/>
 
-I'm Michael, a driven Full Stack Developer with a passion for crafting impactful interfaces and experiences. Blending the logic of back-end systems with the magic of front-end flair, I thrive in collaborative environments, translating ideas into solutions that deliver results.
-
-Highlights:
-
-**Automated Legal Document Generation:** Saved clients 1000s of hours by building JavaScript functions in Microsoft Office Suite.<br>
-**Slayed Bugs & Boosted Usability:** Identified critical bugs in a global CMS rollout, leading to a smoother implementation.<br>
-**25% User Engagement Jump:** Designed UI/UX layouts for a new product feature, increasing user engagement by a quarter.<br>
-
-Skills:
-
-Front-End: React, JavaScript, HTML5, CSS3, Bootstrap
-Back-End: Node.js, Express, MongoDB, SQL, MySQL
-Version Control & Deployment: GIT, GitHub, Heroku
-UI/UX Design: UI/UX principles, UX design, usability testing & debugging<be>
-
-Looking for:
-
-Collaboration opportunities where I can learn, grow, and contribute to innovative projects.
-Teams that value creativity, results, and a good ol' dose of fun.
-<br>
-Want to Connect? https://www.linkedin.com/in/mikebashford/ (He/Him)<br>
-<br>
-
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikebashford&theme=dark&show_icons=true)
+<h1 align="center">About Me</h1>
+<p align="center">Full-Stack Developer with 2 years of experience crafting responsive, user-friendly web applications using JavaScript, React, and Node.js. I specialize in automating processes, optimizing user interfaces, and leveraging data-driven strategies to boost user engagement and streamline workflows. My track record includes increasing user engagement by 25%, reducing system downtime by 20%, and saving clients over 100 hours weekly through innovative solutions. Passionate about clean code and intuitive design, I'm constantly expanding my skills in cybersecurity and information assurance to deliver secure, high-performance applications that drive business growth.</p>
+</br>
+<div align="center" dir="auto">  
+  <a href="mailto:mikebashford@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mikebashford">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
+</br>
+<h1 align="center">Skills</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,pnpm,postgres,vercel,docker,figma" />
+  </a>
+</p>
+</br>
+<h1 align="center">Stats</h1>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikebashford&theme=highcontrast&card_width=450" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mikebashford&layout=compact&langs_count=8&card_width=450&theme=highcontrast" />
+</a>
