@@ -21,9 +21,12 @@
 </p>
 </br>
 <h1 align="center">Stats</h1>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikebashford&theme=highcontrast&card_width=450" />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikebashford&theme=highcontrast&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mikebashford&layout=compact&langs_count=8&card_width=450&theme=highcontrast" />
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mikebashford&layout=compact&langs_count=8&card_width=300&theme=highcontrast" />
 </a>
+</div>
+
