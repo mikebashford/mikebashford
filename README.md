@@ -23,10 +23,11 @@
 <h1 align="center">Stats</h1>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikebashford&theme=highcontrast&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikebashford&theme=highcontrast&card_width=350" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mikebashford&layout=compact&langs_count=8&card_width=300&theme=highcontrast" />
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mikebashford&layout=compact&langs_count=8&card_width=350&theme=highcontrast" />
 </a>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikebashford&theme=highcontrast&card_width=805" alt="mikebashford" /></a>
 </div>
 
