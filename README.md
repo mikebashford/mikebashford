@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGLyUyQwMJJNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724599428354?e=1730332800&v=beta&t=-QGabLjPkbMdmVV2RoqsymWOqhBNFcTmJ88b4LWA6MA"/>
+<img src="https://utfs.io/f/dRXPhJQIyOBmQwLPxbMlX53AoHwSrg17yz6huvB4jLDpqOYi"/>
 
 <h1 align="center">About Me</h1>
 <p align="left">Software Engineer with 2 years of experience crafting responsive, user-friendly web applications using JavaScript, React, and Node.js. I specialize in automating processes, optimizing user interfaces, and leveraging data-driven strategies to boost user engagement and streamline workflows. My track record includes increasing user engagement by 25%, reducing system downtime by 20%, and saving clients over 100 hours weekly through innovative solutions. Passionate about clean code and intuitive design, I'm constantly expanding my skills in cybersecurity and information assurance to deliver secure, high-performance applications that drive business growth.</p>
