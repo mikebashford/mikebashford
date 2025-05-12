@@ -17,7 +17,7 @@ Passionate about clean code and intuitive design, I'm constantly expanding my sk
 
 ### Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" />
 </div>
 
 ### Programming Languages
