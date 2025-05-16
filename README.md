@@ -4,14 +4,27 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with 2 years of experience crafting responsive, user-friendly web applications using JavaScript, React, and Node.js. I specialize in automating processes, optimizing user interfaces, and leveraging data-driven strategies to boost user engagement and streamline workflows.
+Here's a bit about what I've done:
 
-**Key Achievements:**
-- Increased user engagement by 25%
-- Reduced system downtime by 20%
-- Saved clients over 100 hours weekly through innovative solutions
+Building Online Stores: I took the lead in creating a complete online store for a local bakery (playdougsa.com). This involved setting up features like a delivery map using Google's tools, which cut down on delivery mistakes by 10%. 
 
-Passionate about clean code and intuitive design, I'm constantly expanding my skills in cybersecurity and information assurance to deliver secure, high-performance applications that drive business growth.
+Making Work Easier with Automation: I've built tools that handle repetitive tasks automatically. For example, at LEAP Legal, I created a system for generating legal documents that saved clients over 100 hours each week. I also set up a system to manage catering orders more smoothly, which meant confirmations happened 10% faster.
+
+Designing Clear and Simple Web Pages: I focus on making websites that are straightforward to navigate and look good on any device, using TailwindCSS and Shadcn to keep things clear and user-friendly.
+
+I like figuring out tricky problems and turning them into working software. My time in technical support taught me a lot about solving issues, explaining things clearly, and keeping good records, all of which help me work well in a team.
+
+My Main Technical Skills:
+
+Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, TailwindCSS, Shadcn
+
+Backend: Python, Node.js (if applicable, or specify other backend tech), PostgreSQL, Drizzle ORM
+
+Tools & Platforms: Git, GitHub, Docker, CI/CD, Google Cloud, Google APIs, Jira
+
+I'm looking for a software engineering job where I can tackle new challenges, help build interesting projects, and keep learning with a good team.
+
+Feel free to connect! I'm always happy to talk about technology or new opportunities.
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +40,7 @@ Passionate about clean code and intuitive design, I'm constantly expanding my sk
 
 ### Tools & Infrastructure
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,figma,bash,pnpm" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,figma,bash,pnpm,git" />
 </div>
 
 ## 📊 GitHub Stats
