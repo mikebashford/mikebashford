@@ -6,13 +6,13 @@
 
 Here's a bit about what I've done:
 
-Building Online Stores: I took the lead in creating a complete online store for a local bakery (playdougsa.com). This involved setting up features like a delivery map using Google's tools, which cut down on delivery mistakes by 10%. 
+Building Online Stores: I took the lead in creating a complete online store for a local bakery. This involved setting up features like a delivery map using Google's tools, which cut down on delivery mistakes by 10%. 
 
 Making Work Easier with Automation: I've built tools that handle repetitive tasks automatically. For example, at LEAP Legal, I created a system for generating legal documents that saved clients over 100 hours each week. I also set up a system to manage catering orders more smoothly, which meant confirmations happened 10% faster.
 
 Designing Clear and Simple Web Pages: I focus on making websites that are straightforward to navigate and look good on any device, using TailwindCSS and Shadcn to keep things clear and user-friendly.
 
-I like figuring out tricky problems and turning them into working software. My time in technical support taught me a lot about solving issues, explaining things clearly, and keeping good records, all of which help me work well in a team.
+I like figuring out tricky problems and turning them into working software. My time in technical support taught me a lot about solving issues, explaining things clearly, and keeping good records, all of which helped me work well in a team.
 
 My Main Technical Skills:
 
