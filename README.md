@@ -18,7 +18,7 @@ My Main Technical Skills:
 
 Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, TailwindCSS, Shadcn
 
-Backend: Python, Node.js (if applicable, or specify other backend tech), PostgreSQL, Drizzle ORM
+Backend: Python, Node.js, PostgreSQL, Drizzle ORM
 
 Tools & Platforms: Git, GitHub, Docker, CI/CD, Google Cloud, Google APIs, Jira
 
