@@ -43,17 +43,6 @@ Feel free to connect! I'm always happy to talk about technology or new opportuni
   <img src="https://skillicons.dev/icons?i=postgres,docker,figma,bash,pnpm,git" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=mikebashford&theme=highcontrast&card_width=350&hide_border=false&count_private=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikebashford&layout=compact&langs_count=8&card_width=350&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikebashford&theme=highcontrast&card_width=805" alt="mikebashford" />
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
