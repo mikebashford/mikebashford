@@ -53,3 +53,8 @@ Feel free to connect! I'm always happy to talk about technology or new opportuni
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
+
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikebashford&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="mikebashford's GitHub Stats" />
+</div>
