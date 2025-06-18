@@ -16,7 +16,7 @@ I like figuring out tricky problems and turning them into working software. My t
 
 My Main Technical Skills:
 
-Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, TailwindCSS, Shadcn
+Frontend: React, Next.js, Vue, Nuxt, TypeScript, JavaScript, HTML, CSS, TailwindCSS, Shadcn
 
 Backend: Python, Node.js, PostgreSQL, Drizzle ORM
 
